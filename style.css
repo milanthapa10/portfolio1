@@ -254,13 +254,16 @@ html{
     transform: translateX(-50%);
     transition: 1s ease;
 }
-
+.profileimg{
+    /* height: 460px; */
+    /* margin-bottom:20px; */
+}
 
 .right-hero:hover .shape{
     bottom: 40px;
 }
 
-.right-hero:hover .girl{
+.right-hero:hover .profileimg{
     left: 45%;
 }
 
